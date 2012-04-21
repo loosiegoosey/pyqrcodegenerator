@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 # Keyboard Input QRCode Generator
 # Jonathas Rodrigues <jonathas at archlinux dot us> - 20120420
