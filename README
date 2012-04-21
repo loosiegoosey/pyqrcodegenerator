@@ -8,3 +8,5 @@ then
 
 $ ./keyboard_input_qrcode_generator.py
 
+type a text (6 characters minimum) and hit enter
+
