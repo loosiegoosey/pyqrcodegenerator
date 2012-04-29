@@ -2,11 +2,11 @@ Hi, there!
 
 To run this, give permissions:
 
-$ chmod +x keyboard_input_qrcode_generator.py
+$ chmod +x pyqrcodegenerator.py
 
 then 
 
-$ ./keyboard_input_qrcode_generator.py
+$ ./pyqrcodegenerator.py
 
 type a text (6 characters minimum) and hit enter
 
